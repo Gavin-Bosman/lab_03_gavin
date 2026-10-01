@@ -1,5 +1,7 @@
 # Lab 03 - Basic Python: Strings, Lists, and Dictionaries
 
+test test adding something new
+
 In this lab, we'll practise the tools from this week's lectures: pulling apart and
 building up **strings** and collecting values in **lists** (the three core parts),
 with a stretch that builds a **dictionary**. You'll write four small functions and
